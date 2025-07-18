@@ -73,7 +73,7 @@ No installation required. Just open the Tableau Story:
 
 | File/Folder         | Description                                      |
 |---------------------|--------------------------------------------------|
-| `/data`             | Raw & cleaned datasets (if included)             |
+| `/data`             | Raw & cleaned datasets, py data procesing file   |
 | `/tableau`          | Tableau Worksheet File including dashboards      |
 | `README.md`         | Project overview and instructions                |
 
