@@ -23,7 +23,7 @@ As a **Data Analyst**, I analyzed historical climate data across:
 - **Tableau Public**: Interactive Dashboards & Story
   - Story Navigation: Multi-page narrative with filters and forecasts
   - Dashboards: Interactive visuals, parameters, and annotations
-- **Data Cleaning & Prep**: Python (Pandas), Excel
+- **Data Cleaning & Prep**: Python (Pandas)
 
 ---
 
