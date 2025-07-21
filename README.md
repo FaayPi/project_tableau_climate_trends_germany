@@ -54,9 +54,7 @@ As a **Data Analyst**, I analyzed historical climate data across:
 
 ## 🚀 How to Run
 
-No installation required. Just open the Tableau Story:
-
-👉 [**https://public.tableau.com/app/profile/fee.pieper/viz/project_module4_tableau_climate_trends/Story**](https://public.tableau.com/views/project_module4_tableau_climate_trends_story/Story?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+No installation required. Just open the [**Tableau Story:** ->](https://public.tableau.com/views/project_module4_tableau_climate_trends_story/Story?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
